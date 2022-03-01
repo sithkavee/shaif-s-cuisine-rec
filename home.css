@@ -44,6 +44,7 @@
 	color: rgb(233, 227, 227);
 	border-radius:0 1rem 1rem 0;
 	line-height: 1.8rem;
+	z-index:2;
 }
 .myname small{
 	font-size: 10px;
